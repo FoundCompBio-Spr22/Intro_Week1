@@ -1,6 +1,6 @@
 # Welcome to Foundations of Computing for Biologists
 
-## This is a sub-heading
+This is a sub-heading
 
 - Introductions
 
