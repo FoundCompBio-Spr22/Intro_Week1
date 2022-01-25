@@ -1,5 +1,5 @@
 # Welcome to Foundations of Computing for Biologists
-
+ # Justyn Koenig 
 - Introductions
 
 - Syllabus Overview and Questions
