@@ -1,5 +1,7 @@
 # Welcome to Foundations of Computing for Biologists
 
+## Edit Practice 
+
 - Introductions
 
 - Syllabus Overview and Questions
