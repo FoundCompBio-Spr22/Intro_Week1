@@ -40,6 +40,7 @@
 
 - [Practical Computing Tips](https://github.com/FoundCompBio-Spr22/Intro_Week1/blob/main/ComputingTips.md)
 
+Mark Yeats
 ```
 Assignment 1
 
